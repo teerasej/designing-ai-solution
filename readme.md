@@ -1,7 +1,9 @@
 
 # Designing AI solution
 
-
+## FYI: 
+- Any suggested Azure AI service can be replaced with any other AI service from any other cloud provider. The main goal is to design a solution that solves the problem effectively.
+- The suggested AI services are just examples. You can use any AI service that you think is suitable for the problem.
 
 ## Challenges
 
