@@ -1,6 +1,7 @@
 
 # Microsoft 365 Copilot - Smart Assistant for your office work
 
+- [Presentation file](https://nextflowth-my.sharepoint.com/:b:/g/personal/teerasej_nextflowth_onmicrosoft_com/ERdbzxLpzY9FoOVgUNXRJSMBr72wdvhhAgTdLXwWOS-b6w?e=cZGeu8)
 
 ## Exercise
 
@@ -9,8 +10,13 @@
 3. [สร้างสไลด์นำเสนอด้วย Copilot ใน PowerPoint](exercises/speech-presentation.md)
 4. [สรุปเนื้อหาการนำเสนอ ด้วย Copilot ใน PowerPoint](exercises/presentation-summary.md)
 5. [วิเคราะห์ข้อมูลและสร้างกราฟใน Excel ด้วย Copilot](exercises/excel.md)
-6. Microsoft 365 Chat
 
 ## All rights reserved
 
 All rights reserved by [Amaround Co., Ltd.](https://www.nextflow.in.th/)
+
+## Resources
+
+- [Youtube](https://www.youtube.com/teerasej)
+- [Facebook](https://www.facebook.com/teerasej)
+- [Twitter](https://twitter.com/teerasej)
