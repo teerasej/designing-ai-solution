@@ -13,12 +13,14 @@
 6. [สืบค้นข้อมูลด้วย Business Chat](exercises/business-chat.md)
 7. [สรุปงานด้วย Business Chat](exercises/business-chat-summary.md)
 
+## แหล่งข้อมูลอ้างอิง และติดตามอัพเดต
+
+- [Youtube](https://www.youtube.com/teerasej)
+- [คุยกันบน Facebook](https://www.facebook.com/teerasej)
+- [ทวิตกันบน Twitter](https://twitter.com/teerasej)
+
+
 ## All rights reserved
 
 All rights reserved by [Amaround Co., Ltd.](https://www.nextflow.in.th/)
 
-## แหล่งข้อมูลอ้างอิง
-
-- [Youtube](https://www.youtube.com/teerasej)
-- [คุยกันบน Facebook](https://www.facebook.com/teerasej)
-- [ทวิตกันผ่าน Twitter](https://twitter.com/teerasej)
