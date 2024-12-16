@@ -11,6 +11,7 @@
 4. [สรุปเนื้อหาการนำเสนอ ด้วย Copilot ใน PowerPoint](exercises/presentation-summary.md)
 5. [วิเคราะห์ข้อมูลและสร้างกราฟใน Excel ด้วย Copilot](exercises/excel.md)
 6. [สืบค้นข้อมูลด้วย Business Chat](exercises/business-chat.md)
+7. [สรุปงานด้วย Business Chat](exercises/business-chat-summary.md)
 
 ## All rights reserved
 
